@@ -4,7 +4,7 @@ class Person
   
   def initialize(new_person)
     new_person.each do |key, value|
-      
+      self.send
     end
   end
 end
