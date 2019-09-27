@@ -1,6 +1,7 @@
 class Person
   #your code here
-  def initialize()
+  
+  def initialize(new_person)
     
   end
 end
